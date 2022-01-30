@@ -5,7 +5,7 @@
 
 
 
-## Experience: 
+## Experience
 
 * API Development & Full lifecycle API management
 * Data Engineering and ETL
