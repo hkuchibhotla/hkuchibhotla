@@ -4,9 +4,8 @@
 - 💞️ I’m looking to collaborate on open sources projects, cloud architecture and sharing best practices of software development
 
 
-## Skills 
 
-Actively work on the following areas: 
+## Experience: 
 
 * API Development & Full lifecycle API management
 * Data Engineering and ETL
@@ -27,7 +26,6 @@ Actively work on the following areas:
 * Python 
 * JavaScript/ TypeScript 
 * Bash
-
 
 
 <!---
