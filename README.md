@@ -9,7 +9,7 @@
 
 ## Experience
 
-* API Development & Full lifecycle API management
+* Full lifecycle API management
 * Data Engineering and ETL
 * SRE, DevOps and DevSecOps on AWS Cloud 
 
