@@ -6,6 +6,9 @@
 
 ![Hari's GitHub stats](https://github-readme-stats.vercel.app/api?username=hkuchibhotla&count_private=true&theme=dark&show_icons=true&bg_color=00000000)
 
+
+![Hari's GitHub stats](https://github-readme-stats.vercel.app/api?username=hkuchibhotla&include_all_commits=true&count_private=true&theme=dark&show_icons=true&bg_color=00000000)
+
 ## Experience
 
 * API Development & Full lifecycle API management
