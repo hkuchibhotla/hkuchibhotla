@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open sources projects, cloud architecture and sharing best practices of software development
 
 
-![Hari's GitHub stats](https://github-readme-stats.vercel.app/api?username=hkuchibhotla&count_private=true&theme=dark&show_icons=true&bg_color=00000000)
+![Hari's GitHub stats](https://github-readme-stats.vercel.app/api?username=hkuchibhotla&count_private=true&theme=dark&theme=transparent&show_icons=true&bg_color=00000000)
 
 
 ## Experience
