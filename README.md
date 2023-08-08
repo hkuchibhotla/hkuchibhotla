@@ -7,8 +7,7 @@
 ![Hari's GitHub stats](https://github-readme-stats.vercel.app/api?username=hkuchibhotla&count_private=true&theme=dark&theme=transparent&show_icons=true)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hkuchibhotla&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=hkuchibhotla)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Experience
 
