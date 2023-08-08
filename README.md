@@ -7,6 +7,9 @@
 ![Hari's GitHub stats](https://github-readme-stats.vercel.app/api?username=hkuchibhotla&count_private=true&theme=dark&theme=transparent&show_icons=true)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hkuchibhotla&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## Experience
 
 * Full lifecycle API management
