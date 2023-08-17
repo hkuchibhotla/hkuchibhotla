@@ -8,7 +8,7 @@
 
 * Full lifecycle API management
 * Data Engineering and ETL
-* SRE, DevOps and DevSecOps on AWS Cloud 
+* SRE, DevSecOps and Platform engineering
 
 
 ## Certifications 
