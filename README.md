@@ -41,6 +41,8 @@ Full lifecycle API management - authentication, entitlements, develop endpoints/
 * DBT
 * S3, Glue, Athena, Lake Formation
 * Redshift, Snowflake
+* Airbyte ELT
+* Airbrake monitoring
 
 ## DevSecOps
 
