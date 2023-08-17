@@ -26,6 +26,30 @@
 * JavaScript/ TypeScript 
 * Bash
 
+## Cloud
+
+* AWS
+* GCP
+
+## API Development
+
+Full lifecycle API management - authentication, entitlements, develop endpoints/ proxies, publish API apps and products using API first approach, monetization, onboarding. 
+
+## Data Engineering
+
+* Airflow, MWAA
+* DBT
+* S3, Glue, Athena, Lake Formation
+* Redshift, Snowflake
+
+## DevSecOps
+
+* CICD Pipelines - GitHub Actions, AWS Code Pipeline, CircleCI
+* IaC - Terraform, Cloudformation, CDK
+* Serverless,AWS SAM
+* Observability - Datadog log analytics, Application Performance Monitoring(APM) - Profiling and Tracing, Monitoring and Alerting
+* Appsec initiatives, integrate with Snyk, Netsparker
+
 
 <!---
 hkuchibhotla/hkuchibhotla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
