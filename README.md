@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hari
 - 👀 I am interested in all aspects of software development - frontend, backend, data and SRE.
-- 🌱 I’m currently learning Terraform
+- 🌱 I’m currently learning DBT, EKS
 - 💞️ I’m looking to collaborate on open sources projects, cloud architecture and sharing best practices of software development
 
 
